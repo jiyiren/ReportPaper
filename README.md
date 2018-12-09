@@ -1,6 +1,5 @@
 <p>
-    <a href="http://jiyiren.github.io/"><img alt="logo" width="38" height="38" src="./_img/header.png
-" alt="jiyiren">
+    <a href="http://jiyiren.github.io/"><img alt="logo" width="38" height="38" src="./_img/header.png" alt="jiyiren">
     </a>
 </p>
 
@@ -13,8 +12,8 @@
 <p align="center" style="margin: 30px 0 35px;">A LaTeX Template for Report, With Supporting Chinese Language
 </p>
 
-<p style="background-color: black; padding:3px">
-<img src="./_img/hot.jpg">
+<p>
+<img style="background-color: black; padding:3px" src="./_img/hot.jpg">
 </p>
 
 ## 环境
