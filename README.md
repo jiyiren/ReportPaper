@@ -12,9 +12,8 @@
 <p align="center" style="margin: 30px 0 35px;">A LaTeX Template for Report, With Supporting Chinese Language
 </p>
 
-<div style="background-color: black; padding:3px">
+
 <img src="./_img/hot.jpg">
-</div>
 
 ## 环境
 
