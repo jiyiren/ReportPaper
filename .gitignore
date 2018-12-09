@@ -5,4 +5,4 @@
 *.out
 .DS_Store
 *.gz
-_img
+_tmp
