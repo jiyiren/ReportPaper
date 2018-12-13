@@ -84,7 +84,10 @@ LaTeX 的发行版中会自带一款编辑器，用 TexLive 的话，MacOS 上�
 
 这时产生的 `pdf` 和上面一致；通过编辑器形式不用自己指定文件名，因此更简单方便。
 
-最终生成的 pdf 文档示例：[report_paper.pdf](https://github.com/jiyiren/ReportPaper/blob/master/report_paper.pdf)
+最终生成的 pdf 文档示例：
+
+* github: [report_paper.pdf](https://github.com/jiyiren/ReportPaper/blob/master/report_paper.pdf)
+* 七牛云：[report_paper.pdf](http://img.godjiyi.cn/report_paper.pdf)
 
 ## 参考
 
